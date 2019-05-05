@@ -1,8 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"ecran chargement","order":1,"parentId":0,"scrollX":655.2,"scrollY":368.8},
-{"id":2,"expanded":true,"name":"Entrée de l'école","order":2,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"premièrer étage","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Deuxieme étage","order":4,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Troisième étage","order":5,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":1,"expanded":false,"name":"ecran chargement","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"Entrée de l'école","order":5,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"premièrer étage","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":true,"name":"Deuxieme étage","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Troisième étage","order":4,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":true,"name":"info","order":6,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"chimie","order":7,"parentId":0,"scrollX":819,"scrollY":461}
 ]
